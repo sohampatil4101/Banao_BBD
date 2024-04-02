@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Title Fetcher",
+    "version": "1.0",
+    "description": "A Chrome extension to fetch and display the title of the current tab.",
+    "permissions": ["tabs"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
